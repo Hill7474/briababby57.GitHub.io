@@ -49,8 +49,10 @@ print ('I owe the grocer $%.2f' % grocery_bill)
 input("What's your name?: ")
   
 LAgentee AI: "I'm your Life Agentee AI. I'm here for all your coding doubts and
+
+
 |-----:|-----------|
-|     1| Pythom|
+|     1| Python|
 |     2| CSS    |
 |     3| Javascript       |
 
