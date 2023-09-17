@@ -1,24 +1,24 @@
 ********
-# Code Guide As "CoWik"
+# Python101
 *******
 
 
 <footer>
 
  
- <p>CoWik also Serves as a cheatsheet for Markdown, Python, Javascript, CSS, & HTML.</p>
+ <p>Python101 also Serves as a cheatsheet for Markdown, Python, Javascript, CSS, & HTML.</p>
 
 
  
- __light weight wiki specifically for coding, web dev, etc.__
+ __light weight wiki specifically for coding with python
 
  
 
- <p>Cowik is also my goto when in doubt or confused</p>
+ <p>Python101 is also my goto when in doubt or confused</p>
 
  <footer>
 
-  > When it comes to anything coding, you can count on CoWik! 
+  > When it comes to anything coding, you can count on python101! 
   
 
   1. Always there when in need 
