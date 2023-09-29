@@ -19,7 +19,7 @@
  <footer>
 
   > When it comes to anything coding, you can count on CoWik! 
-  >> CoWik will always be there to serve you and your needs!
+  >> CoWik will always be there to serve you and your needs! <br>
   >> Able to be trained to serve as a 365 "life agent"
 
 
